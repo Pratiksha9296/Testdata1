@@ -11,7 +11,6 @@ public class A
 	ArrayList arr=new ArrayList();
 	arr.add(10);
 	arr.add(20);
-	arr.add(40);
 	arr.add(50);
 	arr.add(null);
 	arr.add("Str");
